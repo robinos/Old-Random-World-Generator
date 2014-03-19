@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=path\ terrain
+comment0.target=Tile(java.lang.String,\ modelTypes.Terrain)
+comment0.text=\r\n\ Constructor\ for\ Tile\r\n\ \t\r\n\ @param\ path\ \ \ \ \:\ String\ representing\ path\ for\ the\ image\ icon\r\n\ @param\ terrain\ \:\ Terrain\ object\ for\ the\ related\ terrain\r\n
+comment1.params=
+comment1.target=modelTypes.Terrain\ getTerrain()
+comment1.text=\r\n\ getTerrain\ gets\ the\ associated\ Terrain\r\n\ \r\n\ @return\ \:\ Terrain\ terrain\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObjectWatcher()
+comment0.text=\r\n\ The\ constructor\ for\ ObjectWatcher\r\n
+comment1.params=o\ arg
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ update\ is\ an\ overwritten\ method\ of\ Observer,\ used\ in\ reaction\ to\ a\ change\ happening\r\n\ in\ an\ observed\ class.\ \ \r\n\ \r\n\ @param\ o\ \ \ \:\ an\ Observable\ object\ (which\ should\ be\ an\ GameObject\ object\ of\ some\ sort)\r\n\ @param\ arg\ \:\ an\ Object\ (which\ should\ be\ a\ Location\ object)\ \r\n
+numComments=2

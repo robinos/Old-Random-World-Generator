@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=u
+comment0.target=void\ addVector(Vector3D)
+comment1.params=u
+comment1.target=void\ subtractVector(Vector3D)
+comment2.params=xform
+comment2.target=void\ add(Transform3D)
+comment3.params=xform
+comment3.target=void\ subtract(Transform3D)
+comment4.params=xform
+comment4.target=void\ addRotation(Transform3D)
+comment5.params=xform
+comment5.target=void\ subtractRotation(Transform3D)
+numComments=6

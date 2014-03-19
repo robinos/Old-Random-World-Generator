@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=id\ location\ name\ picture\ subtypeName\ vegetation\ hinderance\ depth
+comment0.target=Water(int,\ GridVector,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.StringBuffer,\ int,\ float)
+comment0.text=\r\n\ This\ is\ the\ constructor\ for\ water.\r\n\ \r\n\ See\ GameObject\ for\ id,\ location,\ name,\ and\ picture\r\n\ See\ Terrain\ for\ subtypeName,\ vegetation,\ and\ hinderance\r\n\ \r\n\ @param\ depth\r\n\ \r\n
+comment1.params=
+comment1.target=Water()
+comment1.text=\r\n\ This\ is\ the\ no\ argument\ constructor\ for\ water.\r\n
+comment2.params=
+comment2.target=float\ getDepth()
+comment2.text=\r\n\ getDepth\ returns\ the\ depth\ integer\ of\ the\ Water.\r\n\ \r\n\ @return\ \:\ an\ integer\ representing\ the\ water\ depth\r\n
+comment3.params=depth
+comment3.target=void\ setDepth(float)
+comment3.text=\r\n\ setDepth\ sets\ the\ Water\ depth\ integer.\r\n\ \r\n\ @param\ depth\ \:\ an\ integer\ representing\ the\ desired\ water\ depth\ in\ meters\r\n
+comment4.params=
+comment4.target=Water\ clone()
+comment4.text=\r\n\ \ This\ is\ the\ clone\ method\ for\ Water.\ \ It\ overrides\ the\ clone()\r\n\ \ method\ of\ Terrain,\ and\ is\ meant\ to\ be\ overridden\ where\ needed\ by\r\n\ \ subclass\ methods.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \ A\ toString\ method\ for\ Water\ that\ returns\ the\ name,\ id,\ picture,\ location,\r\n\ \ subtypeName,\ and\ depth\ of\ the\ Water\ object.\r\n\ \ \r\n\ \ @return\ \:\ String\ with\ information\ on\ the\ name,\ id,\ picture,\ location,\r\n\ \ \ \ \ \ \ \ \ \ \ \ subtypeName,\ and\ depth\ of\ the\ Water\ object\r\n
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\r\n\ \ An\ equals\ method\ for\ Water\ objects\ that\ compares\ id,\ name,\ location,\ \r\n\ \ subtypeName,\ and\ depth\ values.\r\n\ \ \r\n\ \ @param\ obj\ \:\ the\ object\ for\ comparison\ \r\n\ \ @return\ \ \ \ \:\ a\ boolean\ value\ true\ or\ false\ \r\n
+comment7.params=
+comment7.target=int\ hashCode()
+comment7.text=\r\n\ \ A\ basic\ hashCode\ method\ for\ Water,\ for\ the\ id,\ name,\ location,\ subtypeName,\r\n\ \ and\ depth\ fields\ that\ are\ compared\ in\ the\ equals\ method.\r\n\ \ \r\n\ \ @return\ \:\ an\ integer\ value\r\n
+numComments=8

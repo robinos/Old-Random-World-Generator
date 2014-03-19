@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=numElements
+comment0.target=DisjointSets(int)
+comment0.text=\r\n\ Construct\ the\ disjoint\ sets\ object.\r\n\ @param\ numElements\ the\ initial\ number\ of\ disjoint\ sets.\r\n
+comment1.params=root1\ root2
+comment1.target=void\ union(int,\ int)
+comment1.text=\r\n\ Union\ two\ disjoint\ sets\ using\ the\ height\ heuristic.\r\n\ root1\ and\ root2\ are\ distinct\ and\ represent\ set\ names.\r\n\ @param\ root1\ the\ root\ of\ set\ 1.\r\n\ @param\ root2\ the\ root\ of\ set\ 2.\r\n\ @throws\ IllegalArgumentException\ if\ root1\ or\ root2\r\n\ are\ not\ distinct\ roots.\r\n
+comment2.params=x
+comment2.target=int\ find(int)
+comment2.text=\r\n\ Perform\ a\ find\ with\ path\ compression.\r\n\ @param\ x\ the\ element\ being\ searched\ for.\r\n\ @return\ the\ set\ containing\ x.\r\n\ @throws\ IllegalArgumentException\ if\ x\ is\ not\ valid.\r\n
+comment3.params=root
+comment3.target=void\ assertIsRoot(int)
+comment4.params=x
+comment4.target=void\ assertIsItem(int)
+numComments=5

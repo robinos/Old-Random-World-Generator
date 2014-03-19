@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=path\ terrain
+comment0.target=PictureLabel(java.lang.String,\ modelTypes.Terrain)
+comment0.text=\r\n\ PictureLabel\ Constructor\r\n\ \r\n\ @param\ str\ \:\ a\ String\ representing\ a\ picture\ filename\ path\r\n
+comment1.params=
+comment1.target=int\ getX1()
+comment1.text=\r\n\ getX1\ gets\ the\ x-coordinate\ clicked\r\n\ \r\n\ @return\ \:\ integer\ value\ x1\r\n
+comment2.params=
+comment2.target=int\ getY1()
+comment2.text=\r\n\ getY1\ gets\ the\ y-coordinate\ clicked\r\n\ \r\n\ @return\ \:\ integer\ value\ y1\r\n
+comment3.params=
+comment3.target=javax.swing.JPopupMenu\ getMenu()
+comment3.text=\r\n\ getMenu\ gets\ the\ pop-up\ menu\r\n\ \r\n\ @return\ \:\ JPopupMenu\ menu\r\n
+comment4.params=
+comment4.target=modelTypes.Terrain\ getTerrain()
+comment4.text=\r\n\ getTerrain\ gets\ the\ associated\ Terrain\r\n\ \r\n\ @return\ \:\ Terrain\ terrain\r\n
+numComments=5

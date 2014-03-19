@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WorldMap()
+comment0.text=\r\n\ The\ constructor\ for\ WorldMap\r\n
+comment1.params=aWorld
+comment1.target=void\ showMap(modelTypes.World)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=java.lang.String\ setPath()
+comment4.text=\r\n\ setThePath\ sets\ the\ filepath\ for\ pictures\ for\ the\ game.\r\n\ \r\n\ @param\ p\ \:\ a\ string\ representing\ the\ absolute\ path\r\n\ @return\ \ \:\ a\ string\ representing\ the\ file\ path\ for\ use\ by\ other\ classes\r\n
+comment5.params=terrain
+comment5.target=java.lang.String\ riverEntrance(modelTypes.Terrain)
+comment6.params=terrain
+comment6.target=java.lang.String\ riverExit(modelTypes.Terrain)
+comment7.params=terrain
+comment7.target=void\ showInfo(modelTypes.Terrain)
+comment7.text=\r\n\ showInfo\r\n
+comment8.params=fDirection
+comment8.target=java.lang.String\ getDirection(float)
+numComments=9
